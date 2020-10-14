@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "1.2.1"
   s.summary      = "A subclass of `UITextView` that fixes the most glaring problems from iOS 7 and 7.1."
   s.homepage     = "https://github.com/rafaelmaeuer/PSPDFTextView"
-  s.screenshots  = "https://github.com/rafaelmaeuer/PSPDFTextView/raw/master/Example/fixed.gif"
+  s.screenshots  = "https://github.com/rafaelmaeuer/PSPDFTextView/raw/master/img/fixed.gif"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Peter Steinberger, PSPDFKit GmbH" => "steipete@gmail.com" }
   s.ios.deployment_target = '12.0'

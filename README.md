@@ -12,15 +12,19 @@ What's fixed?
 
 UITextView:
 
-![UITextView](https://github.com/steipete/PSPDFTextView/raw/master/Example/broken.gif)
+![UITextView](img/broken.gif)
 
 PSPDFTextView:
 
-![PSPDFTextView](https://github.com/steipete/PSPDFTextView/raw/master/Example/fixed.gif)
+![PSPDFTextView](img/fixed.gif)
 
-Read more in my blog post: [http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/](http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/)
+Read more in the blog post: [http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/](http://petersteinberger.com/blog/2014/fixing-uitextview-on-ios-7/)
+
+## Requirements
+
+- iOS 12.0 or later
 
 ## License
 
-Taken from the commercial [PSPDFKit - a framework for displaying and annotating PDFs in your iOS apps.](http://pspdfkit.com)
+Taken from the commercial [PSPDFKit - a framework for displaying and annotating PDFs in your iOS apps.](http://pspdfkit.com)  
 This class has been relicensed under the MIT license.
